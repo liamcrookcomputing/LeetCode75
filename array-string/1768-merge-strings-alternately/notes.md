@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Pattern:** Two Pointers
-**Link:** https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
+**Link:** [Merge String Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
 **Date solved:** 2026-08-28
 
 ## Problem summary
