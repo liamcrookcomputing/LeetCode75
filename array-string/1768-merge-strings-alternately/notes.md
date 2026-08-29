@@ -1,9 +1,11 @@
 # 1768. Merge Strings Alternately
 
-**Difficulty:** Easy
-**Pattern:** Two Pointers
-**Link:** [Merge String Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
-**Date solved:** 2026-08-28
+| | |
+|---|---|
+| **Difficulty:** | Easy |
+| **Pattern:** | Two Pointers |
+| **Link:** | [Merge String Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) |
+| **Date solved:** | 2026-08-28 |
 
 ## Problem summary
 

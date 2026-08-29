@@ -1,9 +1,11 @@
 # 1071. Greatest Common Divisor of Strings
 
-**Difficulty:** Easy
-**Pattern:** String / Math
-**Link:** [Greatest Common Divisor](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75)
-**Date solved:** 2026-08-29
+| | |
+|---|---|
+| **Difficulty:** Easy |
+| **Pattern:** String / Math |
+| **Link:** | [Greatest Common Divisor](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) |
+| **Date solved:** | 2026-08-29 |
 
 ## Problem summary
 

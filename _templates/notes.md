@@ -1,9 +1,11 @@
 # 1071. Greatest Common Divisor of Strings
 
-**Difficulty:** Easy
-**Pattern:** ?
-**Link:** [link]()
-**Date solved:** YYYY-MM-DD
+| | |
+|---|---|
+| **Difficulty:** | Easy |
+| **Pattern:** | ? |
+| **Link:** | [link]() |
+| **Date solved:** | YYYY-MM-DD |
 
 ## Problem summary
 

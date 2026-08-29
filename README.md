@@ -14,6 +14,7 @@ My solutions and notes for the [LeetCode 75](https://leetcode.com/studyplan/leet
 |---|---------|-----------|---------|----------|
 | 1768 | Merge Strings Alternately | Easy | Two Pointers | [link](./array-string/1768-merge-strings-alternately/) |
 | 1071 | Greatest Common Divisor of Strings | Easy | Math/String | [link](./array-string/1071-gcd-of-strings/) |
+| 1431 | Kids With the Greatest Number of Candies | Easy | Array | [link](./array-string/1431-kids-with-the-greatest-number-of-candies/) |
 
 ### Two Pointers
 | # | Problem | Difficulty | Pattern | Solution |
