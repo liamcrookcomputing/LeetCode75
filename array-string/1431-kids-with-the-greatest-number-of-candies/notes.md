@@ -1,4 +1,4 @@
-# 1071. Greatest Common Divisor of Strings
+# 1431. Kids With the Greatest Number of Candies
 
 | | |
 |---|---|
@@ -39,7 +39,7 @@ Finally I returned the result array.
 
 ## Complexity
 
-- **Time:** O(n)
+- **Time:** O(n^2)
 - **Space:** O(n)
 
 ## Solved cold, or needed a hint?
