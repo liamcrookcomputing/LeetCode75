@@ -1,6 +1,5 @@
 # 1768. Merge Strings Alternately
 
-| | |
 |---|---|
 | **Difficulty:** | Easy |
 | **Pattern:** | Two Pointers |

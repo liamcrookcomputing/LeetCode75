@@ -1,6 +1,5 @@
 # 1071. Greatest Common Divisor of Strings
 
-| | |
 |---|---|
 | **Difficulty:** Easy |
 | **Pattern:** String / Math |
