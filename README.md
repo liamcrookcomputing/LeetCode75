@@ -5,7 +5,7 @@ My solutions and notes for the [LeetCode 75](https://leetcode.com/studyplan/leet
 ## Progress
 
 **Started:** 2026-08-28
-**Status:** 5 / 75 complete
+**Status:** 6 / 75 complete
 
 ## Solutions
 
