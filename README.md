@@ -17,6 +17,7 @@ My solutions and notes for the [LeetCode 75](https://leetcode.com/studyplan/leet
 | 1431 | Kids With the Greatest Number of Candies | Easy | Array | [link](./array-string/1431-kids-with-the-greatest-number-of-candies/) |
 | 605 | Can Place Flowers | Easy | Array/Greedy | [link](./array-string/605-can-place-flowers/) |
 | 345 | Reverse Vowels of a String | Easy | Two Pointers/String | [link](./array-string/345-reverse-vowel-of-a-string/) |
+| 151 | Reverse Words in a String | Medium | Two Pointers/String | [link](./array-string/151-reverse-words-in-a-string/) |
 
 ### Two Pointers
 | # | Problem | Difficulty | Pattern | Solution |

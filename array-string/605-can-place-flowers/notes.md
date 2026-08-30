@@ -29,7 +29,19 @@ In an array check if the element before or after the index is a viable place to 
 
 ## Approach
 
-What did you do to solve the problem? 
+To solve this problem, I looped through the flowerbed array once with an index x, checking at each position whether a flower could be planted there — meaning the current spot is empty (0) and both of its neighbors are also empty.
+
+Since checking neighbors risks going out of bounds at the start and end of the array, I split the logic into three cases:
+
+If x == 0 (the first index), there's no x - 1 to check, so I only looked at flowerbed[x] and flowerbed[x + 1]. I also handled the edge case where the array has only one element, since in that case there's no x + 1 either.
+If x == flowerbedLength - 1 (the last index), there's no x + 1 to check, so I only looked at flowerbed[x] and flowerbed[x - 1].
+Otherwise (anywhere in the middle), I checked all three: flowerbed[x], flowerbed[x - 1], and flowerbed[x + 1].
+
+Whenever a spot passed its check, I set flowerbed[x] = 1 (planting the flower directly in the array, so future neighbor-checks see the update) and incremented totalCanPlace.
+
+Finally, I returned whether totalCanPlace >= n, since the question only asks if at least n flowers can be planted, not exactly n.
+
+One thing I noted afterward: this ended up as a fairly long chain of if/elif statements to handle the start/end/middle cases separately, which felt messy — worth looking into a cleaner way to handle array boundaries (like a sentinel/padding approach) next time this kind of edge case comes up.
 
 ## Complexity
 
