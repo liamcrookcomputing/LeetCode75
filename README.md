@@ -5,7 +5,7 @@ My solutions and notes for the [LeetCode 75](https://leetcode.com/studyplan/leet
 ## Progress
 
 **Started:** 2026-08-28
-**Status:** 0 / 75 complete
+**Status:** 5 / 75 complete
 
 ## Solutions
 
@@ -15,6 +15,8 @@ My solutions and notes for the [LeetCode 75](https://leetcode.com/studyplan/leet
 | 1768 | Merge Strings Alternately | Easy | Two Pointers | [link](./array-string/1768-merge-strings-alternately/) |
 | 1071 | Greatest Common Divisor of Strings | Easy | Math/String | [link](./array-string/1071-gcd-of-strings/) |
 | 1431 | Kids With the Greatest Number of Candies | Easy | Array | [link](./array-string/1431-kids-with-the-greatest-number-of-candies/) |
+| 605 | Can Place Flowers | Easy | Array/Greedy | [link](./array-string/605-can-place-flowers/) |
+| 345 | Reverse Vowels of a String | Easy | Two Pointers/String | [link](./array-string/345-reverse-vowel-of-a-string/) |
 
 ### Two Pointers
 | # | Problem | Difficulty | Pattern | Solution |
