@@ -5,19 +5,20 @@ My solutions and notes for the [LeetCode 75](https://leetcode.com/studyplan/leet
 ## Progress
 
 **Started:** 2026-08-28
-**Status:** 6 / 75 complete
+**Status:** 7 / 75 complete
 
 ## Solutions
 
 ### Array / String
 | # | Problem | Difficulty | Pattern | Solution |
 |---|---------|-----------|---------|----------|
-| 1768 | Merge Strings Alternately | Easy | Two Pointers | [link](./array-string/1768-merge-strings-alternately/) |
-| 1071 | Greatest Common Divisor of Strings | Easy | Math/String | [link](./array-string/1071-gcd-of-strings/) |
-| 1431 | Kids With the Greatest Number of Candies | Easy | Array | [link](./array-string/1431-kids-with-the-greatest-number-of-candies/) |
-| 605 | Can Place Flowers | Easy | Array/Greedy | [link](./array-string/605-can-place-flowers/) |
-| 345 | Reverse Vowels of a String | Easy | Two Pointers/String | [link](./array-string/345-reverse-vowel-of-a-string/) |
-| 151 | Reverse Words in a String | Medium | Two Pointers/String | [link](./array-string/151-reverse-words-in-a-string/) |
+| 1768 | Merge Strings Alternately | Easy | Two Pointers | [link](./array-string/1768-merge-strings-alternately/notes.md/) |
+| 1071 | Greatest Common Divisor of Strings | Easy | Math/String | [link](./array-string/1071-gcd-of-strings/notes.md/) |
+| 1431 | Kids With the Greatest Number of Candies | Easy | Array | [link](./array-string/1431-kids-with-the-greatest-number-of-candies/notes.md/) |
+| 605 | Can Place Flowers | Easy | Array/Greedy | [link](./array-string/605-can-place-flowers/notes.md/) |
+| 345 | Reverse Vowels of a String | Easy | Two Pointers/String | [link](./array-string/345-reverse-vowels-of-a-string/notes.md/) |
+| 151 | Reverse Words in a String | Medium | Two Pointers/String | [link](./array-string/151-reverse-words-in-a-string/notes.md/) |
+| 238 | Product of Array Except Self | Medium | Array/Prefix Sum | [link](./array-string/238-product-of-array-except-self/notes.md/) |
 
 ### Two Pointers
 | # | Problem | Difficulty | Pattern | Solution |
